@@ -1,0 +1,1 @@
+import{b as e,c,r as n,d as a}from"./index-bdf24465.js";function r(t=e){const s=t===e?c:()=>n.useContext(t);return function(){const{store:o}=s();return o}}const p=r();function i(t=e){const s=t===e?p:r(t);return function(){return s().dispatch}}const x=i(),d=()=>x(),f=a;export{f as a,d as u};
