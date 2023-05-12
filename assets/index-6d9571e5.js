@@ -1,0 +1,1 @@
+import{d as s,r as t,j as e}from"./index-14734cdc.js";const a=()=>{const{file_name:r}=s();return t.useEffect(()=>{},[]),e.jsx("div",{children:e.jsxs("div",{children:["filewriter ",r]})})};export{a as default};
