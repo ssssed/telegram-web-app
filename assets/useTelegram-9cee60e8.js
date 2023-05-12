@@ -1,1 +1,0 @@
-import{b as t,c as u,r as c,d as a}from"./index-0ece7fa1.js";function r(e=t){const s=e===t?u:()=>c.useContext(e);return function(){const{store:o}=s();return o}}const p=r();function i(e=t){const s=e===t?p:r(e);return function(){return s().dispatch}}const x=i(),S=()=>x(),f=a,h=()=>window.Telegram.WebApp;export{h as a,f as b,S as u};
