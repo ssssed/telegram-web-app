@@ -1,0 +1,1 @@
+import{d as o,r,j as s}from"./index-e8928f16.js";const a=()=>{const{file_name:t}=o(),e=r.useMemo(()=>t==null?void 0:t.split(".").at(-1),[t]);return console.log(e,t),s.jsx("div",{style:{overflowY:"hidden",height:"100vh"},children:s.jsx("iframe",{src:`http://localhost:8000/${t}`,width:"100%",height:"100%"})})};export{a as default};
